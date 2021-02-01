@@ -1,5 +1,3 @@
-AOS.init();
-
 $(document).on('click','.send_form', function(){ 
 var input_uangdunia = document.getElementById('wa_username');
 
@@ -63,3 +61,4 @@ $(document).ready(function () {
 });
 
 $(document).ready(function(){$(&quot;#flippy&quot;).click(function(){$(&quot;#flippanel&quot;).slideToggle(&quot;normal&quot;)})});
+</script>
