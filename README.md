@@ -1,8 +1,2 @@
 BLOGGER TEMPLATE SOURCE
-Name: Dewa Followers
-Codename: DF21
-Version: 2.1
-Type: Premium template
-Designer: Hazira azza faroni
-Country: Indonesia
-Region: Yogyakarta
+Dewa-Followers/DF21/v2.1/Premium-template/Hazira-azza-faroni/Indonesia/Yogyakarta
